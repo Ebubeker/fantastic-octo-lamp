@@ -1,0 +1,98 @@
+body{
+    font-family: 'Mukta', sans-serif;
+}
+
+#q1{
+    background-color: #2c76c0;    
+}
+
+#q1 a{
+    color: black;
+    font-weight: 50;
+    font-size: large;
+}
+
+#we{
+    text-align: right;
+}
+
+.nav-item{
+    text-align: center;
+}
+
+.jumbotron{
+    background-image: url(images/medina.png);
+    height: 600px;
+    border-radius: 0;
+    text-align: center;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.centerFix{
+    width: 1000px;
+    background-color: rgba(255, 254, 254, 0.557);
+    padding: 40px;
+    border: solid 1px rgba(255, 254, 254, 0.557);
+    border-radius: 10px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.btn{
+    background-color: #58aebb;
+    color: blanchedalmond;
+}
+
+#q1 a:hover{
+    color: blanchedalmond;
+}
+
+.btn:hover{
+    background-color: blanchedalmond;
+    color: #58aebb;
+    border: solid 1px #58aebb;
+}
+
+footer{
+    background-color: #2c76c0;
+    padding:20px;
+    margin-top: 25px;
+}
+.WhiteSpot{
+    padding: 25px 0px;
+    background: url(images/snow.jpeg);
+}
+
+.Puci{
+    text-align: center;
+    background-color: rgba(45, 80, 184, 0.619);
+}
+
+.ebu2{
+    padding: 21.8px;
+    padding-top: 11.5px;
+}
+
+.pback{
+    background-color: rgba(255, 255, 255, 0.761);
+    padding: 10px;
+}
+
+.ebu1{
+    padding-bottom: 20px;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.q12{
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+}
